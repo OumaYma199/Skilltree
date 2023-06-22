@@ -1,0 +1,26 @@
+.card{
+    color: #ffffff;
+    box-shadow: 10px -10px 57px -28px #fff;
+    background: linear-gradient(to right, #00093c, #2d0b00);
+    margin: 3% 64px 0 6%;
+    align-items: center;
+    height: calc(74vh - 57px);
+    justify-content: space-between;
+    border-radius:50px;
+    opacity: 0.7;
+}
+.btn button {
+    margin: 4px -2px 24px 20px;
+    border-radius:50px;
+    width: 10%;
+    height: 10%;
+    font-size: 30px;
+    background: -webkit-linear-gradient(to right, #d4f8f9, #2b0046);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #dcfcfc, #7b7a7b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.h1-stl{
+    font-size: 50px;
+    margin: 4px -2px 24px 20px;
+}
